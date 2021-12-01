@@ -1,0 +1,17 @@
+
+.imagem2{
+    background-image: url(https://as2.ftcdn.net/v2/jpg/04/55/79/37/1000_F_455793738_kxpSkQu0929K85djGJmqNZ0XmCPtu9VJ.jpg);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center
+}
+
+.textos2{
+    font-weight: bold !important;
+}
+
+.btCancelar{
+    margin-right: 20px !important;
+}
